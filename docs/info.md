@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-El circuito realiza la suma de dos entradas de un bit con acarreo de entrada
+Circuit full adder
 
 ## How to test
 
-Las pruebas se realizaron con todos los valores posibles para las entradas.
+Circuit full adder.
 
 ## External hardware
 
-Se requerira compuertas logicas.
+Circuit full adder
