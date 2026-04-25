@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Circuit full adder
+Circuit full adder.
 
 ## How to test
 
@@ -17,4 +17,4 @@ Circuit full adder.
 
 ## External hardware
 
-Circuit full adder
+Circuit full adder.
